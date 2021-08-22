@@ -1,6 +1,6 @@
 # Calculator
 This is simple app made using Reactjs And you can see this simle app https://calculator-simple-app.netlify.app/
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaxobjanovdev)](https://github.com/VaxobjanovDev/github-readme-stats)
 Available Scripts
 In the project directory, you can run:
 
