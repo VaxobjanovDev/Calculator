@@ -1,5 +1,5 @@
 # Calculator
-This is simple app made using Reactjs And you can see this simle app 
+This is simple app made using Reactjs And you can see this simle app https://calculator-simple-app.netlify.app/
 
 Available Scripts
 In the project directory, you can run:
