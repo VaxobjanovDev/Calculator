@@ -27,7 +27,7 @@ const Main = () => {
   return (
     <div className="container">
       <form>
-        <input autoFocus='on' className="input" value={result} />
+        <input placeholder='0' autoFocus='on' className="input" value={result} />
       </form>
       <div className="keyboard">
         <button className="clear" onClick={clear}>
